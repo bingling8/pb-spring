@@ -1,1 +1,3 @@
 /spring-context/target/
+/spring-test/target/
+/.idea/
